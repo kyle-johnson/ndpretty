@@ -1,0 +1,4 @@
+Once upon a time, Natural Docs lacked syntax highlighting support.
+
+A quick hack (which doesn't use optparse...) solved this issue and
+is available here for reference.
